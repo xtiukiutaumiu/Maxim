@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #66CDAA;
+    padding: 20px;
+}
+i {color:navy;
+background-color:white ;}
+footer {
+background-color: green;
+    padding: 20px;}
+    nav a{color:white;
+background-color: rgb(0, 32, 128);
+border-radius: 10px;
+padding: 5px;
+margin: 15px;
+text-decoration: none;}
+p{background-color: #aec98b;
+    padding: 20px;}
+    h2 {color: rgb(65, 88, 188)}
+    nav{margin: 20px;}
+    
